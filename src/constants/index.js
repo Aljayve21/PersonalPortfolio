@@ -114,7 +114,7 @@ import {
       company_name: "Capsa London Ltd",
       icon: capsa,
       iconBg: "#383E56",
-      date: "Febuary 2023 - August 2023",
+      date: "Febuary 2023 - March 2023",
       points: [
         "Virtual Assistant (Any related task)",
         "Graphic Design",
